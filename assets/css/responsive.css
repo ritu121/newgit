@@ -1,0 +1,119 @@
+@media only screen and (min-device-width : 1921px) and (max-device-width : 2560px) {
+    .text1{
+        color: #fff;
+        font-size: 40px;
+        padding: 5rem;
+       }
+}
+
+
+
+@media only screen and (min-device-width : 1701px) and (max-device-width : 1920px) {
+   
+    .text1{
+        color: #fff;
+        font-size: 35px;
+        padding: 5rem;
+       } 
+
+}
+
+
+
+@media only screen and (min-device-width : 1501px) and (max-device-width : 1700px) {
+    
+.text1{
+    color: #fff;
+    font-size: 30px;
+    padding: 5rem;
+   }
+
+.text4 h3 {
+    font-size: 20px;
+}
+}
+@media only screen and (min-device-width : 425px) {
+    .emailbtn {
+        display: flex;
+        height: 22px;
+        font-size: 10px;
+        width: 16rem;
+    }
+    .text2 {
+        font-size: 30px;
+    }
+    .text3 {
+        font-size: 16px;
+    }
+    .text4 h3 {
+        font-size: 20px;
+    }
+    .text4 p {
+        font-size: 12px;
+    }
+    .overlay h2 {
+        margin-top: 0px;
+        font-size: 30px;
+    }
+    .overlay h4 {
+        font-size: 16px;
+    }
+}
+@media only screen and (min-device-width : 375px) {
+    .emailbtn {
+        display: flex;
+        height: 22px;
+        font-size: 10px;
+        width: 16rem;
+    }
+    .text2 {
+        font-size: 30px;
+    }
+    .text3 {
+        font-size: 16px;
+    }
+    .text4 h3 {
+        font-size: 20px;
+    }
+    .text4 p {
+        font-size: 12px;
+    }
+    .overlay h2 {
+        margin-top: 0px;
+        font-size: 30px;
+    }
+    .overlay h4 {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (min-device-width : 320px) {
+    .text1{
+        color: #fff;
+        font-size: 20px;
+        padding: 5rem;
+       }
+       .emailbtn {
+        display: flex;
+        height: 22px;
+        font-size: 10px;
+        width: 16rem;
+    }
+    .text2 {
+        font-size: 30px;
+    }
+    .text4 p {
+        font-size: 12px;
+    }
+    .overlay h2 {
+        margin-top: 0px;
+        font-size: 30px;
+    }
+    .text3 {
+        font-size: 16px;
+    }
+    .overlay h4 {
+        font-size: 16px;
+    }
+   
+}
